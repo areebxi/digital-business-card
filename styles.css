@@ -1,0 +1,26 @@
+body {
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0px 0px 15px black;
+    background-color: #222222f4;
+}
+
+.avatar {
+    width: 200px;
+    box-shadow: 0px 0px 5px black;
+}
+
+.card {
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: linear-gradient(to bottom, black, #22222200);
+    color: whitesmoke;
+    border-bottom: 6px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 50px black;
+}
